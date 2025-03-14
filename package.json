@@ -1,5 +1,5 @@
 {
-  "name": "@mcp/pixabay-server",
+  "name": "mcp-pixabay-server",
   "version": "1.0.0",
   "description": "Pixabay MCP Server for image search and download",
   "type": "module",

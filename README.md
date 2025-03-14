@@ -5,7 +5,7 @@ MCP server for searching and downloading images from Pixabay.
 ## Installation
 
 ```bash
-npm install -g @mcp/pixabay-server
+npm install -g mcp-pixabay-server
 ```
 
 ## Configuration
