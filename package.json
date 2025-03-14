@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/pixabay-server"
+    "url": "https://github.com/ClarkWain/MCP-Pixabay-Server"
   },
   "publishConfig": {
     "access": "public"
